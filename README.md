@@ -64,6 +64,8 @@ python main.py
     - Customers can manage profiles, browse products, and check order history.
     - Admins can manage the system, including adding/deleting data and generating statistics.
 
+## For a detailed guide on using the system, refer to the [User Manual](./usermanual.pdf).
+
 ## Future Enhancements
 
   - Add a graphical interface using Flask or a GUI library like Tkinter.
