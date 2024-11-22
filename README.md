@@ -64,7 +64,7 @@ python main.py
     - Customers can manage profiles, browse products, and check order history.
     - Admins can manage the system, including adding/deleting data and generating statistics.
 
-## For a detailed guide on using the system, refer to the [User Manual](./usermanual.pdf).
+## For a detailed guide on using the system, refer to the [User Manual](./userManual.pdf).
 
 ## Future Enhancements
 
